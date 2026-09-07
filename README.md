@@ -1,6 +1,6 @@
 # Khadija Zaman
 
-**SEO, AEO and GEO Manager at [Wellows](https://wellows.com/).** I make brands visible in Google search and cited inside AI answer engines: ChatGPT, Gemini, Perplexity, Claude, and Google AI Overviews.
+**AI Search Manager at Disrupt.com [Wellows].** I make brands visible in Google search and cited inside AI answer engines: ChatGPT, Gemini, Perplexity, and Google AI Overviews.
 
 My work is semantic SEO plus automation, run as one system. Technical SEO, entity and topical architecture, content strategy, and Python/n8n/LLM pipelines that make the strategy ship repeatably without a bigger team. Karachi, Pakistan. Working worldwide.
 
