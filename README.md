@@ -38,7 +38,7 @@ Full case studies with methodology, measurement windows and screenshots: **[khad
 ## Recognition
 
 - **[Search Engine Land](https://searchengineland.com/guide/topic-clusters-for-ai-search)** built its guide to topic clusters for AI search around the Query Fan-Out Generator I made for Wellows.
-- Bylined contributor at **[AllAboutAI.com](https://www.allaboutai.com/author/khadija-zaman/)**, writing on SEO and AI search. Author pages grew 10.7K → 23.6K clicks and 275K → 928K impressions year over year.
+- Bylined contributor at **AllAboutAI.com**, writing on SEO and AI search. Author pages grew 10.7K → 23.6K clicks and 275K → 928K impressions year over year.
 
 ---
 
