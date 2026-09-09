@@ -1,6 +1,6 @@
 # Khadija Zaman
 
-**AI Search Manager at Disrupt.com [Wellows].** I make brands visible in Google search and cited inside AI answer engines: ChatGPT, Gemini, Perplexity, and Google AI Overviews.
+**AI Search Manager at [Disrupt.com](https://disrupt.com/) [[Wellows](https://wellows.com/)].** I make brands visible in Google search and cited inside AI answer engines: ChatGPT, Gemini, Perplexity, and Google AI Overviews.
 
 My work is semantic SEO plus automation, run as one system. Technical SEO, entity and topical architecture, content strategy, and Python/n8n/LLM pipelines that make the strategy ship repeatably without a bigger team. Karachi, Pakistan. Working worldwide.
 
@@ -115,7 +115,7 @@ Original studies and data reports I authored on the Wellows blog:
 
 ## Background
 
-AI Search Manager at Disrupt.com (Wellows) since 2022, owning SEO, content strategy, AI automation and influencer partnerships end to end. Before that: SEO and Content Lead at webAffinity, SEO Specialist at Intersys, SEO Executive at Digitonics. In search since 2019.
+AI Search Manager at [Disrupt.com](https://disrupt.com/) ([Wellows](https://wellows.com/)) since 2022, owning SEO, content strategy, AI automation and influencer partnerships end to end. Before that: SEO and Content Lead at webAffinity, SEO Specialist at Intersys, SEO Executive at Digitonics. In search since 2019.
 
 Trained in Koray Tuğberk GÜBÜR's advanced semantic SEO framework. Completed NUST's AI Boot Camp in Python, deep learning and AI agent building. Train the Trainer certified through FranklinCovey.
 
