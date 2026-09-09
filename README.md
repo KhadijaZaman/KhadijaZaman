@@ -1,6 +1,6 @@
 # Khadija Zaman
 
-**AI Search Manager at Disrupt.com [Wellows].** I make brands visible in Google search and cited inside AI answer engines: ChatGPT, Gemini, Perplexity, and Google AI Overviews.
+**AI Search Manager at [Disrupt.com](https://disrupt.com/) [[Wellows](https://wellows.com/)].** I make brands visible in Google search and cited inside AI answer engines: ChatGPT, Gemini, Perplexity, and Google AI Overviews.
 
 My work is semantic SEO plus automation, run as one system. Technical SEO, entity and topical architecture, content strategy, and Python/n8n/LLM pipelines that make the strategy ship repeatably without a bigger team. Karachi, Pakistan. Working worldwide.
 
@@ -10,13 +10,13 @@ My work is semantic SEO plus automation, run as one system. Technical SEO, entit
 
 ## What I work on
 
-**Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO)** — structuring content so retrieval systems select and quote it, not just so Google ranks it. Grounded versus non-grounded citation testing, explicit citations tracked separately from implicit brand mentions.
+**Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO)**. Structuring content so retrieval systems select and quote it, not just so Google ranks it. Grounded versus non-grounded citation testing, explicit citations tracked separately from implicit brand mentions.
 
-**Semantic SEO** — query fan-out modelling based on Google's patent research, entity and attribute mapping, topical maps, internal linking architecture that concentrates authority instead of spreading it.
+**Semantic SEO**. Query fan-out modelling based on Google's patent research, entity and attribute mapping, topical maps, internal linking architecture that concentrates authority instead of spreading it.
 
-**Technical SEO** — crawlability, indexation, Core Web Vitals, JSON-LD schema, log-file and GSC API analysis at scale.
+**Technical SEO**. Crawlability, indexation, Core Web Vitals, JSON-LD schema, log-file and GSC API analysis at scale.
 
-**Marketing automation** — Python, n8n, and LLM orchestration wired into GA4, BigQuery, Search Console and Ahrefs, so reporting and research run themselves.
+**Marketing automation**. Python, n8n, and LLM orchestration wired into GA4, BigQuery, Search Console and Ahrefs, so reporting and research run themselves.
 
 ---
 
@@ -60,10 +60,10 @@ Full case studies with methodology, measurement windows and screenshots: **[khad
 
 Four run in the browser with no sign-up, on my site:
 
-- **[Citeability Checker](https://khadijazaman.com/tools/citeability-checker/)** — scores how likely a page is to be cited by an AI answer engine, and what to fix.
-- **[Query Fan-Out Explorer](https://khadijazaman.com/tools/query-fan-out/)** — expands a seed query into the sub-questions AI engines generate when answering.
-- **[SERP Preview](https://khadijazaman.com/tools/serp-preview/)** — pixel-accurate preview of a title and description in Google results.
-- **[Schema Generator](https://khadijazaman.com/tools/schema-generator/)** — valid JSON-LD structured data for any page type.
+- **[Citeability Checker](https://khadijazaman.com/tools/citeability-checker/)**. Scores how likely a page is to be cited by an AI answer engine, and what to fix.
+- **[Query Fan-Out Explorer](https://khadijazaman.com/tools/query-fan-out/)**. Expands a seed query into the sub-questions AI engines generate when answering.
+- **[SERP Preview](https://khadijazaman.com/tools/serp-preview/)**. Pixel-accurate preview of a title and description in Google results.
+- **[Schema Generator](https://khadijazaman.com/tools/schema-generator/)**. Valid JSON-LD structured data for any page type.
 
 ---
 
@@ -115,7 +115,7 @@ Original studies and data reports I authored on the Wellows blog:
 
 ## Background
 
-AI Search Manager at Disrupt.com (Wellows) since 2022, owning SEO, content strategy, AI automation and influencer partnerships end to end. Before that: SEO and Content Lead at webAffinity, SEO Specialist at Intersys, SEO Executive at Digitonics. In search since 2019.
+AI Search Manager at [Disrupt.com](https://disrupt.com/) ([Wellows](https://wellows.com/)) since 2022, owning SEO, content strategy, AI automation and influencer partnerships end to end. Before that: SEO and Content Lead at webAffinity, SEO Specialist at Intersys, SEO Executive at Digitonics. In search since 2019.
 
 Trained in Koray Tuğberk GÜBÜR's advanced semantic SEO framework. Completed NUST's AI Boot Camp in Python, deep learning and AI agent building. Train the Trainer certified through FranklinCovey.
 
