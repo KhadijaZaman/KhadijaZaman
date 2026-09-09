@@ -78,6 +78,30 @@ I publish on how search visibility actually works now, across both search engine
 
 All posts: **[khadijazaman.com/blog](https://khadijazaman.com/blog/)** · [RSS](https://khadijazaman.com/feed.xml)
 
+### Research at Wellows
+
+Original studies and data reports I authored on the Wellows blog:
+
+- [AI Citation Overlap Study](https://wellows.com/blog/ai-citation-overlap-study/)
+- [Social Media AI Citations Report 2026](https://wellows.com/blog/social-media-ai-citations-report-2026/)
+- [LLM Citation Trends for AI Search](https://wellows.com/blog/llm-citation-trends-for-ai-search/)
+- [How AI Selects Sites to Cite](https://wellows.com/blog/how-ai-selects-sites-to-cite/)
+- [AI Search Statistics](https://wellows.com/blog/statistics/)
+
+<details>
+<summary>More guides and checklists on Wellows</summary>
+
+- [What Is Generative Engine Optimization](https://wellows.com/blog/what-is-generative-engine-optimization/)
+- [AEO vs GEO](https://wellows.com/blog/aeo-vs-geo/)
+- [ChatGPT SEO](https://wellows.com/blog/chatgpt-seo/)
+- [Google AI Overviews Ranking Factors](https://wellows.com/blog/google-ai-overviews-ranking-factors/)
+- [AI Visibility for Digital Marketing Agencies](https://wellows.com/blog/ai-visibility-for-digital-marketing-agencies/)
+- [AI Content Optimization Checklist](https://wellows.com/blog/ai-content-optimization-checklist/)
+- [AI Search Visibility Audit Checklist](https://wellows.com/blog/ai-search-visibility-audit-checklist/)
+- [Generative Engine Optimization Checklist for Brand Visibility](https://wellows.com/blog/generative-engine-optimization-checklist-brand-visibility/)
+
+</details>
+
 ---
 
 ## Stack
